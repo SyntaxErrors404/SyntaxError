@@ -10,7 +10,7 @@
 </p>
 <h1>My Projects</h1>
 
-<b><h4>Discord Bots</h4></mark>
+<b><h4>Discord Bots</h4>
 • Crim : Multipurpose bot with dashboard in Node.js and Discord.js
 
 <h4>Websites</h4>
