@@ -15,7 +15,7 @@
 
 <h4>Websites</h4>
 • SpaceCord : Discord Bot List with Bot in Node.js,Discord.js and EJS<br>
-• My Personal Website : Personal Website in Html,Css and Js
+• My Personal Website : Personal Website in Html,Css and Js 
 
 <h1>Socials</h1>
 
